@@ -12,7 +12,7 @@ Este é o repositório oficial do site **J335-STUDiOS**, utilizado para publicar
 ## 🌍 Acesse o site
 🔗 **https://j335-studios.github.io**
 
-## 📂 Funcionalidades (atuais e futuras)
+## 📂 Funcionalidades
 - ✅ Apresentação de add-ons
 - ✅ Página inicial responsiva
 - ⏳ Downloads organizados
@@ -22,8 +22,8 @@ Este é o repositório oficial do site **J335-STUDiOS**, utilizado para publicar
 
 ## 🛠️ Tecnologias usadas
 - HTML5
-- CSS3 / Tailwind / Bootstrap (se aplicável)
-- JavaScript (se aplicável)
+- CSS3 / Bootstrap
+- JavaScript
 - GitHub Pages
 
 ## 📜 Licença
