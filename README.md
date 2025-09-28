@@ -1,6 +1,6 @@
-# 🌐 J335 Studios - Add-ons e Projetos Minecraft Bedrock
+# 🌐 J335-STUDiOS
 
-Este é o repositório oficial do site **J335 Studios**, utilizado para publicar e apresentar add-ons, recursos e projetos desenvolvidos para **Minecraft Bedrock Edition (MCPE)**.
+Este é o repositório oficial do site **J335-STUDiOS**, utilizado para publicar e apresentar add-ons, recursos e projetos desenvolvidos para **Minecraft Bedrock Edition (MCPE)**.
 
 ## ✅ Estado do Projeto
 🚧 **Em desenvolvimento ativo**  
